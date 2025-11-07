@@ -17,11 +17,11 @@ theme:
     - media: "(prefers-color-scheme: light)" #亮色模式
       scheme: default
       primary: blue #主色调
-      accent: balck
+      accent: indigo
     - media: "(prefers-color-scheme: dark)" #暗黑模式
       scheme: slate
       primary: blue
-      accent: blue
+      accent: indigo
   nav: #网站导航结构（侧边栏和顶部标签页的内容）
     - 首页: index.md # 导航项名称 -> 对应docs目录下的Markdown文件
     #- Markdown 语法: markdown-syntax.md
