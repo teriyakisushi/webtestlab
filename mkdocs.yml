@@ -32,7 +32,6 @@ nav: #网站导航结构（侧边栏和顶部标签页的内容）
   - 基础指南:
     - 创建和更新网站: createweb.md
     - Markdown 语法: markdown-syntax.md
-  - 外部资源:
 
 markdown_extensions: #扩展项
   - admonition  # 新增：启用提示框扩展
